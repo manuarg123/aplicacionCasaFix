@@ -1,0 +1,13 @@
+Este proyecto va a ser básicamente un programa para acceder a los distintos rubros del proyecto CasaFix. En cada rubro se 
+va a poder ingresar ciertos datos que me permitan calcular un presupuesto estimado.
+Además, puede haber una clase Cliente y Operario que permita registrarlos y calcularles algo. Sueldo para el empleado
+y antiguedad. Al cliente le puedo calcular viaticos según su dirección.
+
+Clases:
+Aire acondicionado
+Electricidad
+Luminaria
+Electrodomestico
+pintura
+Cliente
+Trabajador
